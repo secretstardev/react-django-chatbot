@@ -1,0 +1,9 @@
+cffi==1.14.0
+cryptography==2.9.2
+Django==2.2
+django-rest-knox==4.1.0
+djangorestframework==3.11.0
+pycparser==2.20
+pytz==2020.1
+six==1.14.0
+sqlparse==0.3.1
